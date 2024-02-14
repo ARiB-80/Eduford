@@ -1,2 +1,2 @@
 # Eduford
-Basic website using HTML, CSS, and JS. (RESPONSIVE)
+Basic website using HTML and CSS.(RESPONSIVE)
